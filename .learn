@@ -7,3 +7,4 @@ tags:
 languages:
   - ruby
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/git-remotes-with-github-readme.git
