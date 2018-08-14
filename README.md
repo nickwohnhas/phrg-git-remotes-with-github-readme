@@ -89,4 +89,8 @@ Again, we can also do this explicitly if need be by adding the remote name and b
 
 [For more details, check out the GitHub guide on pulling.](https://help.github.com/articles/fetching-a-remote/)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-git-remotes-with-github-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-git-remotes-with-github-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Git Remotes + GitHub</p>
